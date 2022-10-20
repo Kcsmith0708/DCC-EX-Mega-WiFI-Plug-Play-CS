@@ -11,7 +11,7 @@ and the Arduino IDE Editor loaded on your PC
 Unzip the  DCC-EX Mega Plug & Play Starter Kit 4.1 .zip file
 
 Three Folders are included for this 'Plug & Play' Starter Kit 4.1
- DCC-EX Mega 'Plug & Play' Documents     Includes DCC-EX Mega + WiFi 'Plug & Play'.pdf - Engine Driver screenshots & Fig 1 & 2.
+ DCC-EX Mega 'Plug & Play' Documents     Includes DCC-EX Mega + WiFi 'Plug & Play'.pdf - Engine Driver screenshots & Fig 1 & 2. 
  COMMANDSTATION-EX_Courses_4.1.1         Includes All the DCC-EX files needed to setup & run the Station A to Station B examples
  EXRAIL MP3 Samples                      Includes sample sounds the DFPlayer uses in the scripts.
  ReadMe.txt                              These Instruction
