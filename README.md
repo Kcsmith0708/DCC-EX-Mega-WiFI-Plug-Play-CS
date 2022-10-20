@@ -31,10 +31,10 @@ Copy them into your Users/Documents/DCC-EX Programs/ folder
    CommandStation-EX folder includes a Complete Master v4.1 release plus these extra files for the Plug & Play example.
    Includes tabs for;
     config.h				  Sets up WiFi Serial 3, OLED display, DFPlayer on Serial 1 turned On.
-    myAutomation.h                 Sets up these first 3 #includes my___.h files and is ready to go.
-    myEXRAIL_Courses_100_Macros.h  Sets up EXRAIL Sensor, Servo Turnouts, FX Devices, Layout Setup & WiFi Throttles Cmds & Accessory buttons.
-    myEXRAIL_Courses_200_Macros.h  Sets up EXRAIL Automation(n) 201 thru 206 for Loco runs.
-    myDCCEX_CommandSummary.h       Sets up DCCEX Command Summary displays with </START 411> Commands by Group in the IDE serial monitor.
+    myAutomation.h                        Sets up these first 3 #includes my___.h files and is ready to go.
+    myEXRAIL_Courses_100_Macros.h         Sets up EXRAIL Sensor, Servo Turnouts, FX Devices, Layout Setup & WiFi Throttles Cmds & Accessory buttons.
+    myEXRAIL_Courses_200_Macros.h         Sets up EXRAIL Automation(n) 201 thru 206 for Loco runs.
+    myDCCEX_CommandSummary.h              Sets up DCCEX Command Summary displays with </START 411> Commands by Group in the IDE serial monitor.
     myHal.cpp				  Sets up DFPlayer mini micro-SD card & Ultrasonic Sensor configurations
     mySetup.h				  Sets up Sensors 'S' Turnouts'T' & Outputs'Z' and DFPlayer & Ultrasonic Sensor requirements
                                            And I use it to automatically upload & populate JMRI Tools->Table-> Sensors,Turnouts, Outputs
