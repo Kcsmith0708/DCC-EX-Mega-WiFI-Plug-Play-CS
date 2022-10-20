@@ -1,5 +1,5 @@
 # DCC-EX-Mega-WiFI-Plug-Play-CS
-DCC-EX Mega with WiFi 'Plug & Play' Starter Kit 4.1                                           KCSmith 10-13-22
+DCC-EX Mega with WiFi 'Plug & Play' Starter Kit 4.1							KCSmith 10-13-22
 
 We Recommend you create a DCC-EX Programs folder and Copy this Starter Kit folder into there
 Users/Documents/DCC-EX Programs/ 
