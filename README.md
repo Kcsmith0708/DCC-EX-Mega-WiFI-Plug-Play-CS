@@ -35,8 +35,8 @@ Copy them into your Users/Documents/DCC-EX Programs/ folder
     myEXRAIL_Courses_200_Macros.h  Sets up EXRAIL Automation(n) 201 thru 206 for Loco runs.
     myDCCEX_CommandSummary.h       Sets up DCCEX Command Summary displays with </START 411> Commands by Group in the IDE serial monitor.
     myHal.cpp				  Sets up DFPlayer mini micro-SD card & Ultrasonic Sensor configurations
-    mySetup.h				  Sets up Sensors<S> Turnouts<T> & Outputs<Z> and DFPlayer & Ultrasonic Sensor requirements
-                                           And I use it to automatically upload & populate JMRI Tools>Table> Sensors, Turnouts, Outputs
+    mySetup.h				  Sets up Sensors 'S' Turnouts'T' & Outputs'Z' and DFPlayer & Ultrasonic Sensor requirements
+                                           And I use it to automatically upload & populate JMRI Tools->Table-> Sensors,Turnouts, Outputs
                                            It also seems to be a good example of how a mySetup could be configured and used without EXRAIL.
 
 Open COMMANDSTATION-EX_Courses 4.1.1 Folder
