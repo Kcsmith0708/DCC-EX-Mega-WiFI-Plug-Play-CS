@@ -1,5 +1,5 @@
 # DCC-EX-Mega-WiFI-Plug-Play-CS
-DCC-EX Mega with WiFi 'Plug & Play' Starter Kit 4.1							 KCSmith 10-13-22
+DCC-EX Mega with WiFi 'Plug & Play' Starter Kit 4.1.1							 KCSmith 10-13-22
 
 We Recommend you create a DCC-EX Programs folder and Copy this Starter Kit folder into there
 Users/Documents/DCC-EX Programs/ 
@@ -8,9 +8,9 @@ A DCC-EX Mega + WiFi Command Station with EXRAIL Courses_Macros
 This Assumes you have a Working Mega WiFi Command Station up and Running
 and the Arduino IDE Editor loaded on your PC
 
-Unzip the  DCC-EX Mega Plug & Play Starter Kit 4.1 .zip file
+Unzip the  DCC-EX Mega + WiFI Plug & Play Starter Kit 4.1.1.zip file
 
-Three Folders are included for this 'Plug & Play' Starter Kit 4.1
+Three Folders are included for this 'Plug & Play' Starter Kit 4.1.1
 - DCC-EX Mega 'Plug & Play' Documents   - Includes DCC-EX Mega + WiFi 'Plug & Play'.pdf - Engine Driver screenshots & Fig 1 & 2. 
 - COMMANDSTATION-EX_Courses_4.1.1       - Includes All the DCC-EX files needed to setup & run the Station A to Station B examples
 - EXRAIL MP3 Samples                    - Includes sample sounds the DFPlayer uses in the scripts.
@@ -22,12 +22,12 @@ Three Folders are included for this 'Plug & Play' Starter Kit 4.1
 
 1) DCC-EX Mega 'Plug & Play' Documents
    Open DCC-EX Mega 'Plug & Play' Documents Folder
-   Open & Print the DCC_EX Mega + WiFI 'Plug & Play' with Engine Driver Controller.PDF
+   Open & Print the DCC-EX Mega + WiFI 'Plug & Play' with Engine Driver Controller.PDF
    Follow the Direction to Install The COMMANDSTATION-EX and the Mega pin out wiring instructions & Engine Driver Preferences Setup.
 
 2) DCC-EX Command Station Program
    DCC-EX Mega + WiFi EXRAIL Plug & Play Command Station is a COMPLETE packaged system 'Ready to Run'
-   CommandStation-EX folder includes a Complete Master v4.1 release plus these extra files for the Plug & Play example.
+   CommandStation-EX folder includes a Complete Master v4.1.1 release plus these extra files for the Plug & Play example.
    Includes tabs for;
    -  config.h                        -  Sets up WiFi Serial 3, OLED display, DFPlayer on Serial 1 turned On.
    -  myAutomation.h                  -  Sets up these first 3 #includes my___.h files and is ready to go.
@@ -57,7 +57,7 @@ In config.h, Find and Edit these WiFi Network lines and Enter Your SSID 'Name'  
 
 Then scroll down & find your prefered LCD or OLED display then Uncomment one of theses lines,
  -  #define LCD_DRIVER  0x27,16,2
- -  #define OLED_DRIVER 128,32
+ -  #define OLED_DRIVER 128,32     This OLED is currenty setup in Start Kit and is running
  -  #define OLED_DRIVER 128,64
 
 Then on the IDE menu bar press the Compile & Upload => button 
@@ -68,8 +68,8 @@ The Mega DCC-EX Command Station should Connect to your Network and be able to Co
    Open the EXRAIL MP3 Examples folder
 	You need to copy the MP3 sound files from here onto your micro-SD card and insert it into the DFPlayer.
 	It's Important that you copy and past 'One' file at a time in the 'Order' you want them to play onto the micro-SD card.
-	 00         1st sound
-	 01         2nd sound
+	 00 1st sound
+	 01 2nd sound
 	etc., through sound 14
 
 If you delete one you Will have to delete them all and start all over from 00, or else the DFPlayer will be out of sync.
