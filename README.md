@@ -1,5 +1,5 @@
 # DCC-EX-Mega-WiFI-Plug-Play-CS
-DCC-EX Mega with WiFi 'Plug & Play' Starter Kit 4.1.1							KCSmith 10-13-22
+DCC-EX Mega with WiFi 'Plug & Play' Starter Kit 4.1.2					                                                 	KCSmith 10-29-22
 
 A DCC-EX Mega + WiFi Command Station with EXRAIL Courses_Macros.
  This Assumes you have a Working Mega WiFi Command Station up and Running
@@ -8,16 +8,16 @@ and the Arduino IDE Editor loaded on your PC.
 We Recommend you create a DCC-EX Programs folder and Copy this Starter Kit folder into your
 Users/Documents/DCC-EX Programs/ 
 
-Unzip the  DCC-EX Mega + WiFI Plug & Play Starter Kit 4.1.1.zip file'
+Unzip the  DCC-EX Mega + WiFI Plug & Play Starter Kit 4.1.2.zip file'
 
-Three Folders are included for this 'Plug & Play' Starter Kit 4.1.1
+Three Folders are included for this 'Plug & Play' Starter Kit 4.1.2
 - DCC-EX Mega 'Plug & Play' Documents   - Includes DCC-EX Mega + WiFi 'Plug & Play'.pdf - Engine Driver screenshots & Fig 1 & 2. 
-- COMMANDSTATION-EX_Courses_4.1.1       - Includes All the DCC-EX files needed to setup & run the Station A to Station B examples
+- COMMANDSTATION-EX_Courses_4.1         - Includes All the DCC-EX files needed to setup & run the Station A to Station B examples
 - EXRAIL MP3 Samples                    - Includes sample sounds the DFPlayer uses in the scripts.
 - ReadMe.txt                            - These Instruction 
 
  1. Print the DCC-EX Mega 'Plug & Play'.PDF, Follow the Mega wiring & setup instructions.
- 2. Open COMMANDSTATION-EX_Courses.4.1.1 folder, Start the .INO file and Edit the config.h file then compile & upload to the CS
+ 2. Open COMMANDSTATION-EX_Courses.4.1 folder, Start the .INO file and Edit the config.h file then compile & upload to the CS
  3. Open the EXRAIL MP3 Examples folder, Copy the files to your Micro-SD card 'One' file at a time and insert it into the DFPlayer.
 
 1) DCC-EX Mega 'Plug & Play' Documents.
@@ -27,20 +27,20 @@ Three Folders are included for this 'Plug & Play' Starter Kit 4.1.1
 
 2) DCC-EX Command Station Program.
    - DCC-EX Mega + WiFi EXRAIL Plug & Play Command Station is a COMPLETE packaged system 'Ready to Run'
-   - CommandStation-EX folder includes a Complete Master v4.1.1 release plus these extra files for the Plug & Play example.
+   - CommandStation-EX folder includes a Complete Master v4.1.2 release plus these extra files for the Plug & Play example.
    
    Includes tabs for; 
    -  config.h                        *--  Sets up WiFi on Serial3, a OLED 128x32 display, a DFPlayer on Serial1*
    -  myAutomation.h                  *--  Sets up these first three #includes my___.h files and is ready to go.*
    -  myEXRAIL_Courses_100_Macros.h   *--  Sets up Sensors, Servo Turnouts, FX Layout Devices, Mimic Panel buttons & WiFi Throttles Cmd buttons*
    -  myEXRAIL_Courses_200_Macros.h   *--  Sets up EXRAIL Automation(n) 201 thru 206 for Loco runs.*
-   -  myDCCEX_CommandSummary.h        *--  Sets up DCCEX Command Summary </START 411> displays Commands in IDE serial monitor.*
+   -  myDCCEX_CommandSummary4.1h      *--  Sets up DCCEX Command Summary </START 411> displays Commands in IDE serial monitor.*
    -  myHal.cpp                       *--  Sets up DFPlayer mini micro-SD card & Ultrasonic Sensor configurations*
    -  mySetup.h                       *--  Sets up Sensors 'S' Turnouts'T' & Outputs'Z' and the DFPlayer & Ultrasonic Sensor requirements.
                                                    And I use it to automatically upload & populate JMRI Tools->Table-> Sensors,Turnouts, Outputs.
                                                    It also seems to be a good example of how a mySetup.h could be configured and used without EXRAIL.*
 
-Open COMMANDSTATION-EX_Courses 4.1.1 Folder
+Open COMMANDSTATION-EX_Courses 4.1 Folder
  -   Open the COMMANDSTATION-EX folder
  -   click on COMMANDSTATION-EX.ino and the Arduino IDE editor will open automatically.
 In the IDE Editor menu bar 
@@ -82,9 +82,7 @@ If you delete one you Will have to delete them all and start all over from 00, o
 // License
 
 Copyright 2020 DCC-EX
-
 Licensed under the GNU open source license.
-
 Unless required by applicable law or agreed to in writing, software distributed
 under the License is distributed on an “AS IS” BASIS, WITHOUT WARRANTIES OR
 CONDITIONS OF ANY KIND, either express or implied. See the License for the
