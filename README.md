@@ -1,5 +1,5 @@
 # DCC-EX-Mega-WiFI-Plug-Play-CS
-DCC-EX Mega with WiFi 'Plug & Play' Starter Kit 4.1.2					                                                 	KCSmith 10-29-22
+DCC-EX Mega with WiFi 'Plug & Play' Starter Kit 4.1.3  	                                                 	KCSmith 10-29-22
 
 A DCC-EX Mega + WiFi Command Station with EXRAIL Courses_Macros.
  This Assumes you have a Working Mega WiFi Command Station up and Running
@@ -8,9 +8,9 @@ and the Arduino IDE Editor loaded on your PC.
 We Recommend you create a DCC-EX Programs folder and Copy this Starter Kit folder into your
 Users/Documents/DCC-EX Programs/ 
 
-Unzip the  DCC-EX Mega + WiFI Plug & Play Starter Kit 4.1.2.zip file'
+Unzip the  DCC-EX Mega + WiFI Plug & Play Starter Kit 4.1.3.zip file'
 
-Three Folders are included for this 'Plug & Play' Starter Kit 4.1.2
+Three Folders are included for this 'Plug & Play' Starter Kit 4.1
 - DCC-EX Mega 'Plug & Play' Documents   - Includes DCC-EX Mega + WiFi 'Plug & Play'.pdf - Engine Driver screenshots & Fig 1 & 2. 
 - COMMANDSTATION-EX_Courses_4.1         - Includes All the DCC-EX files needed to setup & run the Station A to Station B examples
 - EXRAIL MP3 Samples                    - Includes sample sounds the DFPlayer uses in the scripts.
@@ -23,7 +23,8 @@ Three Folders are included for this 'Plug & Play' Starter Kit 4.1.2
 1) DCC-EX Mega 'Plug & Play' Documents.
    - Open DCC-EX Mega 'Plug & Play' Documents Folder.
    - Open & Print the DCC-EX Mega + WiFI 'Plug & Play' with Engine Driver Controller.PDF
-   - Follow the Directions to Install The CommandStation-EX and the Mega pin out wiring instructions & Engine Driver Preferences setup.
+   -  Follow the Directions to Install The CommandStation-EX and the Mega pin out wiring instructions & Engine Driver Preferences setup.
+   - Open & Print DCC-EX EXRAIL Command & Function Shortcuts.pdf, Use as a reference card.
 
 2) DCC-EX Command Station Program.
    - DCC-EX Mega + WiFi EXRAIL Plug & Play Command Station is a COMPLETE packaged system 'Ready to Run'
