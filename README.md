@@ -1,4 +1,4 @@
-# DCC-EX-Mega-WiFI-Plug-Play-CS
+# DCC-EX-Mega-WiFI-Plug-Play-Starter-Kit
 DCC-EX Mega with WiFi 'Plug & Play' Starter Kit 4.1.3  	                                                 	KCSmith 10-29-22
 
 A DCC-EX Mega + WiFi Command Station with EXRAIL Courses_Macros.
